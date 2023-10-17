@@ -52,6 +52,8 @@ nav ul li a {
     text-decoration: none;
     position: relative;
     transition: 0.2s all;
+    font-size: 14px;
+    font-weight: 500;
 }
 
 nav ul li a:hover{
