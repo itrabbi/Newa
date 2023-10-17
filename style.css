@@ -330,3 +330,90 @@ h2{
     }
 }
 
+
+/* About Finshed  */
+
+/* Sevice */
+.service{
+    padding: 100px 10px;
+}
+
+.service p.title{
+    color: #f8991c;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.card-group{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 50px;
+}
+
+.card {
+    text-align: center;
+    padding: 10px;
+}
+
+.card h2{
+    color: #f8991c;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+
+@media (max-width:900px){
+    .card-group{
+        grid-template-columns: repeat(1,1fr);
+        gap: 60px;
+        margin-top: 40px;
+    }
+}
+
+/* Service finished By -00-- Easy Web Learner */
+    
+
+/* Education */
+
+.education{
+    padding: 100px 10px;
+}
+
+.education p.title{
+    color: #f8991c;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.educ-card-group{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+    margin: 0px 20px;
+}
+
+.educ-card{
+    box-shadow: 0px 50px 100px 0px rgba(0, 0, 0, 0.18);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.educ-card p{
+    font-size: 16px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 3px;
+    gap: 4px;
+    color: #000;
+    font-weight: 500;
+}
+
+@media (max-width:900px){
+    .educ-card-group{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+
+/* Education Finished */
