@@ -417,3 +417,42 @@ h2{
 }
 
 /* Education Finished */
+
+.testimonials{
+    padding: 50px 10px;
+}
+
+.testimonials-card{
+    padding: 20px;
+    margin-top: 40px;
+    box-shadow: 0px 50px 100px 0px rgba(0, 0, 0, 0.10);
+    border-radius: 10px;
+}
+
+.testimonials-card .cd{
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+
+.testimonials-card-group{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 30px;
+}
+
+.main-titile p{
+   color: #f8991c;
+   font-size: 16px;
+   font-weight: 700; 
+}
+
+
+@media (max-width:900px){
+    .testimonials-card-group{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+
+/* Testimonials complete */
