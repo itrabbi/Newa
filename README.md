@@ -10,7 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itrabbi&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itrabbi&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itrabbi&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](http://127.0.0.1:5500/index.html) <br/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itrabbi&icon=5&color=0)](https://visitcount.itsvg.in)
