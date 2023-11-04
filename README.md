@@ -15,7 +15,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itrabbi&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<iframe height="300" style="width: 100%;" src="https://codepen.io/aybukeceylan/embed/poEqdWZ?default-tab=html%2Cresult"
-</iframe>
