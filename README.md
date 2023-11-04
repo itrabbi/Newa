@@ -17,8 +17,5 @@
 [![](https://visitcount.itsvg.in/api?id=itrabbi&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<iframe height="300" style="width: 100%;" scrolling="no" title="Job Recruiter Dashboard UI" src="https://codepen.io/aybukeceylan/embed/poEqdWZ?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/aybukeceylan/pen/poEqdWZ">
-  Job Recruiter Dashboard UI</a> by Aybüke Ceylan (<a href="https://codepen.io/aybukeceylan">@aybukeceylan</a>)
-  on <a href="https://codepen.io">CodePen</a>.
+<iframe height="300" style="width: 100%;" src="https://codepen.io/aybukeceylan/embed/poEqdWZ?default-tab=html%2Cresult"
 </iframe>
